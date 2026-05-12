@@ -3,10 +3,14 @@
 
 A basic calculator coded in Python 3.1 utilizing the `tkinter` library as practice for programming logic and GUI building.
 
+<div align="left">
+  <img src="images\Screenshot_1.png" alt="calculator" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images\Screenshot_2.png" alt="calculatordecimalpoint" width="200">
+</div>
+
 # Functionalities
 
 * Basic mathematical operations: addition (`+`), subtraction (`-`), multiplication (`×`) and division (`÷`);
-* Other functions: square root (`√`) and percentage (`%`);
+* Other functions: square root (`√`), percentage (`%`) and decimal point support (`.`);
 * Basic controls: positive/negative sign inversion (`+/-`) and All Clear button (`AC`);
 * Interface: simple interface inspired by classic smartphone's calculators
 
