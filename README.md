@@ -37,7 +37,7 @@ python calculator.py
 
 # Credits
 
-This code was developed based on the tutorial by ```https://github.com/ImKennyYip/```
+This code was developed based on the tutorial by [Kenny Yip](https://github.com/ImKennyYip/)
 
 # License
 
